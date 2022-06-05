@@ -4,7 +4,7 @@
     <div>
       <img
           src="https://www.iconpacks.net/icons/2/free-sad-face-icon-2691-thumb.png"
-          alt=""
+          alt="sad face"
       />
     </div>
     <slot name="redirectEl" />
